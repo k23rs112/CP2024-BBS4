@@ -1,7 +1,7 @@
 /* css/style.css */
 body {
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
-    background-color: #f8f9fa;
+    background-color:yellow;
     color: #333;
     line-height: 1.6;
 }
@@ -45,7 +45,7 @@ h1 {
 
 /* 投稿フォーム */
 .post-form {
-    background: white;
+    background:skyblue;
     padding: 20px;
     border-radius: 8px;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
@@ -103,7 +103,7 @@ textarea.form-control {
 }
 
 .btn-primary {
-    background-color: #007bff;
+    background-color: red;
     color: white;
 }
 
